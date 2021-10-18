@@ -1,0 +1,13 @@
+documentation sur les API :
+
+htt://localhost:8083    url principale
+
+saisi  /save   pour ajouter un apprenant
+
+saisi  /liste  pour afficher la liste des apprenant
+
+saisi  /liste/id  remplacer id par identifiant apprenant que vous souhaiter afficher
+
+saisi  /delete/id remplacer id par identifiant apprenant que vous voulez supprimer
+
+saisi  /user/login&password remplacer login, password de apprenant pour s'authentifier
